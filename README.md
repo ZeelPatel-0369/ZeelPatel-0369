@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![Twitter: ZeelPat44110026](https://twitter.com/ZeelPat44110026)][twitter]&nbsp;&nbsp;&nbsp;
-[![Linkedin: zeel-patel](https://www.linkedin.com/in/zeel-patel-08a839181/)][linkedin]&nbsp;&nbsp;&nbsp;
-[![GitHub ZeelPatel-0369](https://github.com/ZeelPatel-0369)][github]&nbsp;&nbsp;&nbsp;
+[![Twitter: ZeelPat44110026](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ZeelPat44110026)&nbsp;&nbsp;&nbsp;
+[![Linkedin: zeel-patel](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zeel-patel-08a839181/)&nbsp;&nbsp;&nbsp;
+[![GitHub ZeelPatel-0369](https://skillicons.dev/icons?i=github)](https://github.com/ZeelPatel-0369)&nbsp;&nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Portfolio-zeel--patel.com-brightgreen)][website]
 
 
 #### Technologies/Tools I Learned
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,java,git,linux,vscode,bash,c,cs,cpp,eclipse,discord,github,php,spring,kotlin,idea,gradle,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,java,git,linux,vscode,bash,c,cs,cpp,eclipse,discord,php,spring,kotlin,idea,gradle,androidstudio" />
 
 #### Creative Tools
 <img src="https://skillicons.dev/icons?i=xd,pr,ps,ai,au" />
@@ -40,3 +40,4 @@
 [twitter]: https://twitter.com/ZeelPat44110026
 [linkedin]:https://www.linkedin.com/in/zeel-patel-08a839181/
 [github]: https://github.com/ZeelPatel-0369
+
