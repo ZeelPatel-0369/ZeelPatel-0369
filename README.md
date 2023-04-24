@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, I'm Zeel 👋
 
-<!--
-**ZeelPatel-0369/ZeelPatel-0369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I ❤️ creating  world of software!
+- 💻 I’m a Full Stack Developer 
+- 🤝 I’m looking to collaborate with other Full-Stack enthusiasts!
+- 🎯 2023 Goals: Learn more technologies and give more back to the community.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeelPatel-0369&label= Profile+Views&color=orange&style=plastic&label=Profile+views" alt="ZeelPatel-0369" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![Twitter: ZeelPat44110026](https://twitter.com/ZeelPat44110026)][twitter]&nbsp;&nbsp;&nbsp;
+[![Linkedin: zeel-patel](https://www.linkedin.com/in/zeel-patel-08a839181/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![GitHub ZeelPatel-0369](https://github.com/ZeelPatel-0369)][github]&nbsp;&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Portfolio-zeel--patel.com-brightgreen)][website]
+
+
+#### Technologies/Tools I Learned
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,java,git,linux,vscode,bash,c,cs,cpp,eclipse,discord,github,php,spring,kotlin,idea,gradle,androidstudio" />
+
+#### Creative Tools
+<img src="https://skillicons.dev/icons?i=xd,pr,ps,ai,au" />
+
+<br />
+<br />
+<br />
+
+<div align="center">
+ 
+<a href="https://github.com/ZeelPatel-0369">
+ <img src="https://github-readme-stats.vercel.app/api?username=ZeelPatel-0369&show_icons=true&theme=dark&line_height=27" alt="Zeel Patel's GitHub Stats"/>
+</a>
+
+### Show some ❤️ by starring some of my repositories!
+
+</div>
+
+[draf]: https://zeelpatel369.netlify.app/
+[website]: https://zeel-patel.com/?utm_source=%22github%22&utm_medium=%22social-media%22
+[twitter]: https://twitter.com/ZeelPat44110026
+[linkedin]:https://www.linkedin.com/in/zeel-patel-08a839181/
+[github]: https://github.com/ZeelPatel-0369
