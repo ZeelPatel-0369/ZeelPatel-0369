@@ -3,7 +3,7 @@
 ### I ❤️ creating  world of software!
 - 💻 I’m a Full Stack Developer 
 - 🤝 I’m looking to collaborate with other Full-Stack enthusiasts!
-- 🎯 2023 Goals: Learn more technologies and give more back to the community.
+- 🎯 2025 Goals: Learn more technologies and give more back to the community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeelPatel-0369&label= Profile+Views&color=orange&style=plastic&label=Profile+views" alt="ZeelPatel-0369" /> </p>
 
